@@ -23,6 +23,11 @@
   
   /* Section Styles */
 
+  .hobbies {
+    height: 200px;
+    width: 200px;
+}
+
   img.align-left {
     float: left;
     height: 200px;
