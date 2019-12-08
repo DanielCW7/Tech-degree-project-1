@@ -22,7 +22,21 @@
   }
   
   /* Section Styles */
-  
+
+  img.align-left {
+    float: left;
+    height: 200px;
+    width: 200px;
+    padding: 20px;
+  }
+
+  img.align-right {
+    float: right;
+    height: 200px;
+    width: 200px;
+    padding: 20px;
+  }
+
   .main-nav {
     width: 100%;
     background: black;
@@ -31,6 +45,7 @@
     position: fixed;
     text-align: center;
   }
+
   .nav {
     display: flex;
     justify-content: space-around;
